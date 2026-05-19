@@ -1,0 +1,19 @@
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+.vs/
+Debug/
+Release/
+x64/
+
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Temporary files
+*.tmp
+*.exe
+*.dll
